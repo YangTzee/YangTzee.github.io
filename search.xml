@@ -4,26 +4,19 @@
   
     
     <entry>
-      <title>我的第一篇博客文章</title>
-      <link href="/2022/07/04/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
-      <url>/2022/07/04/wo-de-di-yi-pian-bo-ke-wen-zhang/</url>
+      <title>基于硫化铋纳米棒异质结忆阻器</title>
+      <link href="/2022/07/04/ji-yu-bi2s3-yi-zhi-jie-yi-zu-qi/"/>
+      <url>/2022/07/04/ji-yu-bi2s3-yi-zhi-jie-yi-zu-qi/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2022/07/04/hello-world/"/>
-      <url>/2022/07/04/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>研究生器件的第一个工作,需要用到硫化铋纳米棒作为中间层制备忆阻器,由于硫化铋对可见光有很强的吸收光谱,所以将该忆阻器预完成模拟视觉的应用,在这之前我需要很长的时间去思考其创新性及创新点!</p></blockquote><h1 id="一、硫化铋-银铋硫纳米棒的制备"><a href="#一、硫化铋-银铋硫纳米棒的制备" class="headerlink" title="一、硫化铋\银铋硫纳米棒的制备"></a>一、硫化铋\银铋硫纳米棒的制备</h1><h2 id="1、实验器材"><a href="#1、实验器材" class="headerlink" title="1、实验器材"></a>1、实验器材</h2><h2 id="2、制备过程"><a href="#2、制备过程" class="headerlink" title="2、制备过程"></a>2、制备过程</h2><p>​为了制备硫化铋纳米棒,其第一步是认真对三口烧瓶和转子的洗涤,以眼见不到任何污染物为标准.将5ml OLA、1.0g 十二胺和157mg BiCl3 置于50ml三颈口烧瓶中脱气1h以上,升温至100℃后烧瓶中充满N2后将温度升至160℃.接下来,将在4ml OLA充分溶解的1 mmol S粉注入到三颈口烧瓶中反应30min,之后水浴降温时期反应终止.随之,将反应物置于离心管中以1:2比例加入酒精洗涤.倘如不能完全分离,则需加入正己烷帮助分散,这个过程重复3次.最后,将硫化铋纳米棒沉淀分散于4ml 正辛烷中.</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 忆阻器 </tag>
+            
+        </tags>
       
     </entry>
     
